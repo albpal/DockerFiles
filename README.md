@@ -1,7 +1,7 @@
 # DockerFiles
 
 ## myWildFlyContainer
-It builds an image with a wildfly listening to 0.0.0.0 and creates an administration user. It also attach a directory (<deployment_dir> in the next commands) to deploy applications from the host to the container.
+It builds an image with a wildfly listening to 0.0.0.0 and creates an administration user. It also attach a directory (deployment_dir in the next commands) to deploy applications from the host to the container.
 
 ### How to run it
 ```bash
